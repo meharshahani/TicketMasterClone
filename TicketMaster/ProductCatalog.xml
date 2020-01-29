@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<ComedyCatalog>
+    <com id="millers">
+        <name>Were the Millers</name>
+        <price>9.99</price>
+        <image>millers.jpg</image>
+        <manufacturer>millers</manufacturer>
+        <runtime>2h 55m</runtime>
+        <summary>A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+    <com id="bridesmaids">
+        <name>BridesMaids</name>
+        <price>8.99</price>
+        <image>bridesmaids.jpg</image>
+        <manufacturer>bridesmaids</manufacturer>
+        <runtime>1h 55m</runtime>
+        <summary>Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+    <com id="rebound">
+        <name>The rebound</name>
+        <price>9.99</price>
+        <image>rebound.jpg</image>
+        <manufacturer>rebound</manufacturer>
+        <runtime>1h 35m</runtime>
+        <summary>A fortyish mother of two who must start her life over when her husband wants a divorce. She moves to New York City with her 
+        two children and hires a nanny (Justin Bartha).</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+      <com id="hangover">
+        <name>Hangover</name>
+        <price>10.99</price>
+        <image>hangover.jpeg</image>
+        <manufacturer>hangover</manufacturer>
+        <runtime>2h 15m</runtime>
+        <summary>Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+     <com id="dates">
+        <name>50 First Dates</name>
+        <price>7.49</price>
+        <image>50firstdates.jpg</image>
+        <manufacturer>dates</manufacturer>
+        <runtime>2h 30m</runtime>
+        <summary>Henry Roth is a man afraid of commitment up until he meets the beautiful Lucy.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+    
+     <com id="airplane">
+        <name>Airplane</name>
+        <price>7.49</price>
+        <image>airplane.jpg</image>
+        <manufacturer>airplane</manufacturer>
+        <runtime>1h 55m</runtime>
+        <summary>A man afraid to fly must ensure that a plane lands safely after the pilots become sick.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+     <com id="dumb">
+        <name>Dumb and Dumber</name>
+        <price>7.49</price>
+        <image>dumbanddumber.jpg</image>
+        <manufacturer>dumb</manufacturer>
+        <runtime>1h 15m</runtime>
+        <summary>After a woman leaves a briefcase at the airport terminal, a dumb limo driver and his dumber friend set out 
+        on a hilarious cross-country road trip to Aspen, to return the briefcase to its owner.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+     <com id="sunday">
+        <name>First Sunday</name>
+        <price>6.49</price>
+        <image>firstsunday.jpg</image>
+        <manufacturer>sunday</manufacturer>
+        <runtime>2h 10m</runtime>
+        <summary>Durell Washington and LeeJohn Jackson are best friends and bumbling petty criminals.
+         When Durell learns that his ex-girlfriend plans to move to another state with their son Durell Jr.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+     <com id="good">
+        <name>Good Boys</name>
+        <price>5.49</price>
+        <image>goodboys.jpg</image>
+        <manufacturer>good</manufacturer>
+        <runtime>2h 15m</runtime>
+        <summary>Three 6th grade boys ditch school and embark on an epic journey while carrying accidentally stolen drugs, being hunted by teenage girls.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+     <com id="hustle">
+        <name>Hustle</name>
+        <price>5.49</price>
+        <image>hustle.jpg</image>
+        <manufacturer>hustle</manufacturer>
+        <runtime>1h 40m</runtime>
+        <summary>Two con women - one low rent and the other high class - team up to take down the men who have wronged them.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+     <com id="longshot">
+        <name>Longshot</name>
+        <price>5.49</price>
+        <image>longshot.jpg</image>
+        <manufacturer>longshot</manufacturer>
+        <runtime>2h 55m</runtime>
+        <summary>Four losers borrow money from gangsters to bet on a "sure thing", but lose. The gangsters go after them to get their money.</summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+    <com id="mib">
+        <name>Men In Black</name>
+        <price>5.49</price>
+        <image>mib.jpg</image>
+        <manufacturer>mib</manufacturer>
+        <runtime>1h 30m</runtime>
+        <summary> The Men in Black have always protected the Earth from the scum of the universe.
+         In this new adventure, they tackle their biggest threat to date. </summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+     <com id="mystery">
+        <name>Murder Mystery</name>
+        <price>8.49</price>
+        <image>murdermystery.jpg</image>
+        <manufacturer>mystery</manufacturer>
+        <runtime>2h 30m</runtime>
+        <summary> A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage. </summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+     <com id="rushhour">
+        <name>RushHour</name>
+        <price>6.49</price>
+        <image>rushhour.jpg</image>
+        <manufacturer>rushhour</manufacturer>
+        <runtime>1h 15m</runtime>
+        <summary> After an attempted assassination on Ambassador Han, Lee and Carter head to Paris to protect a 
+        French woman with knowledge of the Triads' secret leaders. </summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+    <com id="shazam">
+        <name>Shazam</name>
+        <price>8.49</price>
+        <image>shazam.jpg</image>
+        <manufacturer>shazam</manufacturer>
+        <runtime>1h 20m</runtime>
+        <summary> We all have a superhero inside us, it just takes a bit of magic to bring it out. 
+        In Billy Batson's case, by shouting out one word - SHAZAM - </summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+    <com id="superbad">
+        <name>Superbad</name>
+        <price>6.49</price>
+        <image>superbad.jpg</image>
+        <manufacturer>superbad</manufacturer>
+        <runtime>2h 05m</runtime>
+        <summary> Two co-dependent high school seniors are forced to deal with separation anxiety
+         after their plan to stage a booze-soaked party goes awry. </summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+
+    <com id="toystory">
+        <name>Toystory</name>
+        <price>7.49</price>
+        <image>toystory.jpg</image>
+        <manufacturer>toystory</manufacturer>
+        <runtime>1h</runtime>
+        <summary> When a new toy called "Forky" joins Woody and the gang, a road trip alongside old 
+        and new friends reveals how big the world can be for a toy. </summary>
+        <!-- <condition>New</condition>
+        <discount>10.0</discount> -->
+    </com>
+</ComedyCatalog>
+
+<HorrorCatalog>
+    <hor id="ghost">
+        <name>The ghost train</name>
+        <price>7.99</price>
+        <image>ghosttrain.jpg</image>
+        <manufacturer>ghost</manufacturer>
+        <runtime>1h 55m</runtime>
+        <summary>A group of teenagers performs a ritual to "summon" and board a train that is said to be a ghost train, to find their member's missing sister</summary>
+        <!-- <condition>New</condition>
+        <discount>40.0</discount> -->
+    </hor>
+    <hor id="rings">
+        <name>Rings</name>
+        <price>4.99</price>
+        <image>rings.jpg</image>
+        <manufacturer>rings</manufacturer>
+        <runtime>1h</runtime>
+        <summary> A young woman finds herself on the receiving end of a terrifying curse that threatens to take her life in 7 days. </summary>
+        <!-- <condition>Used</condition>
+        <discount>20.0</discount> -->
+    </hor>
+    <hor id="witch">
+        <name>Mark of the witch</name>
+        <price>7.99</price>
+        <image>witch.jpg</image>
+        <manufacturer>witch</manufacturer>
+        <runtime>2h 10m</runtime>
+        <summary> A 300-year-old witch terrorizes a college town to get revenge on the descendant of the man who persecuted her. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="apocalypse">
+        <name>Apocalypse Now</name>
+        <price>7.99</price>
+        <image>apocalypsenow.jpg</image>
+        <manufacturer>apocalypse</manufacturer>
+        <runtime>1h 45m</runtime>
+        <summary> A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="quiet">
+        <name>A quiet place</name>
+        <price>8.99</price>
+        <image>aquietplace.jpg</image>
+        <manufacturer>quiet</manufacturer>
+        <runtime>2h 30m</runtime>
+        <summary> In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="getout">
+        <name>Get out</name>
+        <price>7.99</price>
+        <image>getout.jpg</image>
+        <manufacturer>getout</manufacturer>        
+        <runtime>2h 10m</runtime>
+        <summary> A young African-American visits his white girlfriend's parents for the weekend </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="mommy">
+        <name>Goodnight Mommy</name>
+        <price>8.99</price>
+        <image>goodnightmommy.jpg</image>
+        <manufacturer>mommy</manufacturer>
+        <runtime>1h 17m</runtime>
+        <summary>Twin boys move to a new home with their mother after she has face changing cosmetic surgery.</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="halloween">
+        <name>Halloween</name>
+        <price>9.99</price>
+        <image>halloween.jpg</image>
+        <manufacturer>halloween</manufacturer>
+        <runtime>2h 47m</runtime>
+        <summary> Laurie Strode confronts her long-time foe Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="it">
+        <name>IT</name>
+        <price>12.99</price>
+        <image>it2.jpg</image>
+        <manufacturer>it</manufacturer>
+        <runtime>1h 35m</runtime>
+        <summary>In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+     <hor id="itfollows">
+        <name>IT Follows</name>
+        <price>15.99</price>
+        <image>itfollows.jpg</image>
+        <manufacturer>itfollows</manufacturer>
+        <runtime>2h 30m</runtime>
+        <summary> A young woman is followed by an unknown supernatural force after a sexual encounter. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+     <hor id="pulp">
+        <name>Pulp Fiction</name>
+        <price>10.99</price>
+        <image>pulpfiction.jpg</image>
+        <manufacturer>pulp</manufacturer>
+        <runtime>1h 55m</runtime>
+        <summary> The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="ready">
+        <name>Ready Or Not</name>
+        <price>7.99</price>
+        <image>readyornot.jpg</image>
+        <manufacturer>ready</manufacturer>
+        <runtime>2h 10m</runtime>
+        <summary> A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="rings2">
+        <name>Rings 2</name>
+        <price>9.99</price>
+        <image>rings2.jpg</image>
+        <manufacturer>rings2</manufacturer>
+        <runtime>1h 50m</runtime>
+        <summary>Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="scary">
+        <name>Scary Stories</name>
+        <price>8.99</price>
+        <image>scarystories.jpg</image>
+        <manufacturer>scary</manufacturer>
+        <runtime>1h 20m</runtime>
+        <summary>A documentary about children's horror classic Scary Stories to Tell in the Dark.</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+      <hor id="baba">
+        <name>The Babadook</name>
+        <price>7.99</price>
+        <image>thebabadook.jpg</image>
+        <manufacturer>baba</manufacturer>
+        <runtime>2h 25m</runtime>
+        <summary> A single mother and her child fall into a deep well of paranoia when an eerie children's book titled "Mister Babadook" manifests in their home. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="conjuring">
+        <name>The Conjuring</name>
+        <price>12.99</price>
+        <image>theconjuring.jpg</image>
+        <manufacturer>conjuring</manufacturer>
+        <runtime>3h 10m</runtime>
+        <summary> Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+    <hor id="nun">
+        <name>The Nun</name>
+        <price>4.99</price>
+        <image>thenun.jpg</image>
+        <manufacturer>nun</manufacturer>
+        <runtime>2h 30m</runtime>
+        <summary>A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </hor>
+
+
+
+</HorrorCatalog>
+
+<RomanticCatalog>
+    <rom id="love">
+        <name>P.S. I love you</name>
+        <price>9.99</price>
+        <image>iloveyou.jpg</image>
+        <manufacturer>love</manufacturer>
+        <runtime>1h 30m</runtime>
+        <summary> A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life. </summary>
+        <!-- <condition>New</condition>
+        <discount>40.0</discount> -->
+    </rom>
+    <rom id="safe">
+        <name>A safe haven</name>
+        <price>7.99</price>
+        <image>safehaven.jpg</image>
+        <manufacturer>safe</manufacturer>
+        <runtime>1h 20m</runtime>
+        <summary> A young woman with a mysterious past lands in Southport, North Carolina where her bond with a widower forces her to confront the dark secret that haunts her. </summary>
+        <!-- <condition>Used</condition>
+        <discount>20.0</discount> -->
+    </rom>
+    <rom id="star">
+        <name>Star is born</name>
+        <price>9.49</price>
+        <image>starisborn.jpg</image>
+        <manufacturer>star</manufacturer>
+        <runtime>2h 45m</runtime>
+        <summary> A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="angry">
+        <name>12 Angry Men</name>
+        <price>5.49</price>
+        <image>12angrymen.jpg</image>
+        <manufacturer>angry</manufacturer>
+        <runtime>3h 30m</runtime>
+        <summary> A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="minutes">
+        <name>30 Minutes or Less</name>
+        <price>6.49</price>
+        <image>30minutesorless.jpg</image>
+        <manufacturer>minutes</manufacturer>
+        <runtime>2h 15m</runtime>
+        <summary> Two fledgling criminals kidnap a pizza delivery guy, strap a bomb to his chest, and inform him that he has mere hours to rob a bank or else... </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="time">
+        <name>About Time</name>
+        <price>8.49</price>
+        <image>abouttime.jpg</image>
+        <manufacturer>time</manufacturer>
+        <runtime>1h 30m</runtime>
+        <summary>At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life.</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="cast">
+        <name>Cast Away</name>
+        <price>8.49</price>
+        <image>castaway.jpg</image>
+        <manufacturer>cast</manufacturer>
+        <runtime>1h 20m</runtime>
+        <summary> A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+    <rom id="asians">
+        <name>Crazy Rich Asians</name>
+        <price>8.49</price>
+        <image>crazyrichasian.jpg</image>
+        <manufacturer>asians</manufacturer>
+        <runtime>2h 10m</runtime>
+        <summary> This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="john">
+        <name>Dear John</name>
+        <price>7.49</price>
+        <image>dearjohn.jpg</image>
+        <manufacturer>john</manufacturer>
+        <runtime>2h</runtime>
+        <summary>After his wife leaves him for his best friend, John Lacey joins the One Two One Club, a support group for divorced and widowed people.</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="gump">
+        <name>Forrest Gump</name>
+        <price>6.49</price>
+        <image>forestgump.jpg</image>
+        <manufacturer>gump</manufacturer>
+        <runtime>1h 30m</runtime>
+        <summary> The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="lala">
+        <name>La La Land</name>
+        <price>12.49</price>
+        <image>lalaland.jpg</image>
+        <manufacturer>lala</manufacturer>
+        <runtime>2h 55m</runtime>
+        <summary> While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="oneday">
+        <name>One Day</name>
+        <price>10.49</price>
+        <image>oneday.jpg</image>
+        <manufacturer>oneday</manufacturer>
+        <runtime>1h 46m</runtime>
+        <summary>After spending the night together on the night of their college graduation Dexter and Emma are shown each year on the same date to see where they are in their lives.</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="sick">
+        <name>The Big Sick</name>
+        <price>7.49</price>
+        <image>thebigsick.jpg</image>
+        <manufacturer>sick</manufacturer>
+        <runtime>1h 46m</runtime>
+        <summary>Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash.</summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+     <rom id="blue">
+        <name>The Blue Valentine</name>
+        <price>4.49</price>
+        <image>thebluevalentine.jpg</image>
+        <manufacturer>blue</manufacturer>
+        <runtime>2h 27m</runtime>
+        <summary> The relationship of a contemporary married couple, charting their evolution over a span of years by cross-cutting between time periods. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+     <rom id="fault">
+        <name>The Fault In Our Stars</name>
+        <price>10.49</price>
+        <image>thefaultinoutstar.jpg</image>
+        <manufacturer>fault</manufacturer>
+        <runtime>1h 20m</runtime>
+        <summary> Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="god">
+        <name>The Godfather</name>
+        <price>15.49</price>
+        <image>thegodfather.jpg</image>
+        <manufacturer>god</manufacturer>
+        <runtime>2h 15m</runtime>
+        <summary> The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="matrix">
+        <name>The Matrix</name>
+        <price>16.49</price>
+        <image>thematrix.jpg</image>
+        <manufacturer>matrix</manufacturer>
+        <runtime>3h 05m</runtime>
+        <summary> A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+    <rom id="shawshank">
+        <name>The Shawshank Redemption</name>
+        <price>8.49</price>
+        <image>theshawshankredemption.jpg</image>
+        <manufacturer>shawshank</manufacturer>
+        <runtime>2h 10m</runtime>
+        <summary> Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency. </summary>
+        <!-- <condition>New</condition>
+        <discount>15.0</discount> -->
+    </rom>
+
+
+</RomanticCatalog>
+
+</ProductCatalog>

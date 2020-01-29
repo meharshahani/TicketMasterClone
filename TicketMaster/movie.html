@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>MovieInfo</title>
+    <link rel="stylesheet" href="https://bootswatch.com/cyborg/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script> 
+       $(document).ready(function(){
+  $("button").click(function(){
+   $.ajax({
+  type:"GET",
+  url:"https://app.ticketmaster.com/discovery/v2/events.json?size=1&apikey=0a8Ry1i7lav8hYBKGqwQBz7lj69GvAkX",
+  async:true,
+  dataType: "json",
+  success: function(json) {
+              console.log(json);
+              // Parse the response.
+              // Do other things.
+           },
+  error: function(xhr, status, err) {
+              // This time, we do not end up here!
+           }
+});
+  });
+});
+     </script>
+</head>
+
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html">MovieInfo</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div id="movie" class="well">
+            <!--div added for API atarts-->
+            <!--<div w-type="event-discovery" w-tmapikey="0a8Ry1i7lav8hYBKGqwQBz7lj69GvAkX" w-googleapikey="AIzaSyBQrJ5ECXDaXVlICIdUBOe8impKIGHDzdA" w-keyword="zz top" w-theme="newschool" w-colorscheme="light" w-width="300" w-height="600" w-size="25" w-border="2" w-borderradius="7" w-postalcode="" w-radius="" w-country="" w-period="year" w-layout="vertical" w-attractionid="" w-promoterid="" w-venueid="" w-affiliateid="" w-segmentid="" w-proportion="xxl"></div>-->
+
+            <!--<div w-type="event-discovery" w-tmapikey="0a8Ry1i7lav8hYBKGqwQBz7lj69GvAkX" w-googleapikey="AIzaSyBQrJ5ECXDaXVlICIdUBOe8impKIGHDzdA" w-keyword="Keyword" w-theme="simple" w-colorscheme="light" w-width="350" w-height="600" w-size="25" w-border="0" w-borderradius="4" w-radius="25" w-period="week" w-layout="vertical" w-attractionid="K8vZ917GSu7" w-promoterid="" w-venueid="" w-affiliateid="" w-segmentid="" w-proportion="custom" w-titlelink="off" w-sorting="groupByName" w-id="" w-source="ticketmaster" w-branding="Ticketmaster" w-countrycode="US" w-postalcode="" w-city="" w-latlong=""></div>-->
+            <!--div added for API ends-->
+
+
+<div id="div1"><h2>Let jQuery AJAX Change This Text</h2></div>
+
+<button>Get External Content</button>
+        </div>
+    </div>
+
+
+    <!-- Script added for API starts-->
+    <!--<script src="https://ticketmaster-api-staging.github.io/products-and-docs/widgets/event-discovery/1.0.0/lib/main-widget.js?v=1"></script>-->
+    
+
+
+    <script src="https://ticketmaster-api-staging.github.io/products-and-docs/widgets/event-discovery/1.0.0/lib/main-widget.js"></script>
+     <!-- Script added for API ends-->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+    <script>
+        getMovie();
+    </script>
+</body>
+
+</html>
